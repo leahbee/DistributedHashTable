@@ -1,0 +1,18 @@
+
+/*######################################################################### 
+# README
+# Author: Leah Brown
+# Project Description and Socket Code: Dr. M. McAllister
+# Class: CSCI 3171
+# Due Date: Wednesday, February 22, 2012 (9:00p.m.)
+#
+# code to handle all incoming queries from another peer.
+##########################################################################*/
+
+
+See assignment description on moodle website for full assignment explanation.
+
+Notes:
+peer implementation - to implement a dynamic list of strings for each peer,
+			each peer has its own linked list of peers
+
